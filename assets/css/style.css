@@ -26,7 +26,7 @@ header {
 }
 
 .card:hover {
-    box-shadow: inset 00px 00px 20px green;
+    box-shadow: inset 00px 00px 20px blue;
     transition: all 0.5s ease-in-out;
 }
 
